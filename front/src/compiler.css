@@ -1,0 +1,35 @@
+.cmpiler
+{
+    float: left;
+    width: 49%;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.output{
+    float: left;
+    width: 49%;
+    margin-top: 30px;
+}
+#compiler{
+    width: 90%;
+    height: 260px;
+    margin-top: 30px;
+    
+}
+#output{
+    width: 96%;
+    height: 260px;
+    margin-top: 30px;
+    
+    border: 2px solid ;
+}
+.cmpiler h2{
+    text-align: center;
+}
+.chead{
+    color: rgb(161, 48, 48);
+    text-align: center;
+}
+.output h2{
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+.sidenav{
+    width: 15%;
+    background-color: rgb(183, 189, 189);
+    height: 600px;
+}
+.sidenav li{
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+.sidenav li:hover{
+    background-color: rgb(162, 127, 194);
+}
+.gth{
+    width: 110px;
+    height: 30px;
+    background-color:rgb(162, 127, 194);
+    margin-left: 20px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

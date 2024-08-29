@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.forgetHeading
+{
+    width: 50%;
+    float: left;
+    margin-top: 110px;
+}
+.forgetHeading h1{
+    padding-left: 170px;
+}
+.forgetHeading p{
+    padding-left: 180px;
+}
+
+.forgetForm{
+    padding-left: 150px;
+    float: left;
+}
+
+.forgetForm td{
+    font-weight: bold;
+    padding-top: 20px;
+}
+.forgetImg{
+    
+    height: 450px;
+    width: 30%;
+    
+    float: left;
+    margin-top: 50px;
+}
+.forgetForm input{
+    height: 40px;
+    width: 300px;
+    text-align: center;
+    border-color: rgb(183, 113, 253);
+    font-weight: bold;
+}
+.forgetsubmit button{
+    height: 35px;
+    width: 80px;
+    border-radius: 20px;
+    
+}
+.forgetsubmit td{
+    padding-left: 120px;
+}
+
+.forgetlogo{
+    float: left;
+    width: 100%;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+}
+.forgettext{
+    margin: 10px;
+}
+
+.forgettext i{
+    font-size: 40px;
+    font-weight: 500;
+}
+.forgettext b{
+    color: rgb(161, 48, 48);
+    font-weight: 1000;
+}
+/* .newuser{
+    margin-left: 74%;
+    font-size: 18px;
+    font-weight: 500;
+}
+.newuser a{
+    color: rgb(183, 113, 253);
+    text-decoration: none;
+}
+.forgetpass{
+    margin-left: 100px;
+    font-size: medium;
+    font-weight: normal;
+    color: rgb(183, 113, 253);
+    cursor: pointer;
+} */
+
